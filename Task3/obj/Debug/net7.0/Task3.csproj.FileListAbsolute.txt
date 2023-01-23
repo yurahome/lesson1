@@ -3,3 +3,13 @@ C:\Geekbrains\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorco
 C:\Geekbrains\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
 C:\Geekbrains\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
 C:\Geekbrains\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\Geekbrains\Task3\bin\Debug\net7.0\Task3.exe
+C:\Geekbrains\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\Geekbrains\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\Geekbrains\Task3\bin\Debug\net7.0\Task3.dll
+C:\Geekbrains\Task3\bin\Debug\net7.0\Task3.pdb
+C:\Geekbrains\Task3\obj\Debug\net7.0\Task3.dll
+C:\Geekbrains\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\Geekbrains\Task3\obj\Debug\net7.0\Task3.pdb
+C:\Geekbrains\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\Geekbrains\Task3\obj\Debug\net7.0\ref\Task3.dll
