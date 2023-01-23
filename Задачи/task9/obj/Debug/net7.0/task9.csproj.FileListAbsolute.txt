@@ -1,0 +1,15 @@
+C:\Geekbrains\task9\bin\Debug\net7.0\task9.exe
+C:\Geekbrains\task9\bin\Debug\net7.0\task9.deps.json
+C:\Geekbrains\task9\bin\Debug\net7.0\task9.runtimeconfig.json
+C:\Geekbrains\task9\bin\Debug\net7.0\task9.dll
+C:\Geekbrains\task9\bin\Debug\net7.0\task9.pdb
+C:\Geekbrains\task9\obj\Debug\net7.0\task9.csproj.AssemblyReference.cache
+C:\Geekbrains\task9\obj\Debug\net7.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\task9\obj\Debug\net7.0\task9.AssemblyInfoInputs.cache
+C:\Geekbrains\task9\obj\Debug\net7.0\task9.AssemblyInfo.cs
+C:\Geekbrains\task9\obj\Debug\net7.0\task9.csproj.CoreCompileInputs.cache
+C:\Geekbrains\task9\obj\Debug\net7.0\task9.dll
+C:\Geekbrains\task9\obj\Debug\net7.0\refint\task9.dll
+C:\Geekbrains\task9\obj\Debug\net7.0\task9.pdb
+C:\Geekbrains\task9\obj\Debug\net7.0\task9.genruntimeconfig.cache
+C:\Geekbrains\task9\obj\Debug\net7.0\ref\task9.dll
